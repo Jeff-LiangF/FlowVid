@@ -16,7 +16,7 @@
 <br/>
 
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2312.02087-b31b1b.svg)]() -->
+[![arXiv](https://img.shields.io/badge/arXiv-2312.17681-b31b1b.svg)](https://arxiv.org/abs/2312.17681)
 [![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://jeff-liangf.github.io/projects/flowvid/)
 
 
