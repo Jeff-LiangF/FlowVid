@@ -1,4 +1,11 @@
-# FlowVid
+# FlowVid (NO CODE)
+
+## Updates
+
+- [6/30/2024] After half a year of negotiations, I regret to inform you that we are unable to release the FlowVid checkpoints. I understand this is disappointing to the community, and I sincerely apologize to let you down. I recommend checking out [TokenFlow](https://github.com/omerbt/TokenFlow), which has on-par results as our FlowVid, and our [StreamV2V](https://github.com/Jeff-LiangF/streamv2v), the fastest video-to-video model available. Although I cannot release the checkpoints, I am permitted to share code snippets upon request. If you are interested in exploring the implementations, please contact me at jeffliang@utexas.edu, and I will guide you to the code.
+
+- [12/28/2023] The official codes and models are currently undergoing a legal review process. Please stay updated for further developments. If you are interested in re-implementing FlowVid or require specific code snippets, don't hesitate to contact me at jeffliang@utexas.edu. Thanks!
+
 
 **[FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis]()**
 <br/>
